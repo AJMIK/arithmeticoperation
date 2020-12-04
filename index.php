@@ -77,8 +77,9 @@
                                         <div class="card-body">
                                           <h5 class="card-title">SUBTRACTION</h5>
                                           <p class="card-text">Subtraction is an arithmetic operation that represents the operation of removing objects from a collection. The result of a subtraction is called a difference. Subtraction is signified by the minus sign, −. For example, in the adjacent picture, there are 5 − 2 apples—meaning 5 apples with 2 taken away, resulting in a total of 3 apples. Therefore, the difference of 5 and 2 is 3, that is, 5 − 2 = 3</p>
-                                         <a href="#" class="btn btn-primary">Go somewhere</a>
+                                         
                                         </div>
+                                        <a href="#" class="btn btn-primary">Go somewhere</a>
                                       </div>
                                
                                
