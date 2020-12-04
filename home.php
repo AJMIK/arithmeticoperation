@@ -77,7 +77,7 @@
                                         <div class="card-body">
                                           <h5 class="card-title">SUBTRACTION</h5>
                                           <p class="card-text">Subtraction is an arithmetic operation that represents the operation of removing objects from a collection. The result of a subtraction is called a difference. Subtraction is signified by the minus sign, −. For example, in the adjacent picture, there are 5 − 2 apples—meaning 5 apples with 2 taken away, resulting in a total of 3 apples. Therefore, the difference of 5 and 2 is 3, that is, 5 − 2 = 3</p>
-                                                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                                         <a href="#" class="btn btn-primary">Go somewhere</a>
                                         </div>
                                       </div>
                                
@@ -87,7 +87,7 @@
                                 <div class="card-body">
                                   <h5 class="card-title">MULTIPLICATION</h5>
                                   <p class="card-text">Multiplication is an arithmetic operation for finding the product of two numbers in mathematics. It is often represented by symbols such as {\displaystyle \times }{\displaystyle \times } and {\displaystyle \cdot }\cdot. Multiplication is the third operation in math, after addition which is the first, and subtraction which is the second. It can also be defined on non-number mathematical objects as well</p>
-                                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                 <a href="#" class="btn btn-primary">Go somewhere</a>
                                 </div>
                               </div>
                                   <div class="card" style="width: 18rem;">
@@ -96,7 +96,7 @@
                                       <h5 class="card-title">DIVISION</h5>
                                       <p class="card-text">In mathematics, the word "division" means the operation which is the opposite of multiplication. Some symbols for division can be a slash ({\displaystyle /}{\displaystyle /}), a (fraction) line, or the division sign ({\displaystyle \div }{\displaystyle \div }),[1] as in:
                                         {\displaystyle 6/3\,}{\displaystyle 6/3\,}    or    {\displaystyle {\frac {6}{3}}}{\displaystyle {\frac {6}{3}}}    or    {\displaystyle 6\div 3.}{\displaystyle 6\div 3.}</p>
-                                                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                                     <a href="#" class="btn btn-primary">Go somewhere</a>
                                     </div>
                                   </div>
                               </div>
